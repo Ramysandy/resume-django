@@ -1,0 +1,10 @@
+venv/
+*.pyc
+__pycache__/
+db.sqlite3
+static/
+media/
+*.log
+*.swp
+.DS_Store
+/secrets.json
